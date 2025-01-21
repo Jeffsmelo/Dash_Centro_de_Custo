@@ -1,0 +1,3 @@
+Status,Num.PC,Numero da SC,Solicitante,Observacoes,Fornecedor,Loja,Razao Social,Produto,Descricao,Emissao,Entrega,UM,Qtd. Original,Prc Unitario,Vlr.Total,Qtd.Entregue,Saldo,Saldo Receber,TIPO,C Custo,Departamento,Cta Contabil,Moeda,Tx Dolar
+Aprovado,1001,2001,John Doe,Observação X,Fornecedor Y,Loja A,Razão Social Z,Produto 1,Descrição do Produto,01/01/2023,10/01/2023,UN,100,10.5,1050,90,10,0,Tipo 1,1011,Departamento A,Conta A,BRL,5.2
+Em Cotação,1002,2002,Jane Doe,Observação Y,Fornecedor Z,Loja B,Razão Social W,Produto 2,Descrição do Produto,02/01/2023,15/01/2023,UN,200,20.5,4100,180,20,0,Tipo 2,1012,Departamento B,Conta B,USD,4.5
